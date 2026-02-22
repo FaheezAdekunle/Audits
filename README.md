@@ -28,8 +28,8 @@ amongst others...
 
 |Contest|Description|Findings|Report|
 |:------|:----------|:-------|:--:|
-|[Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core)|DeFi Options| [ 1 H, 1 L](Contests/2025-12-IgniteLabs.md)|[📄]() |
-|[Firelight](https://immunefi.com/audit-competition/audit-comp-firelight/information/)|Upgradeable ERC‑4626 compatible vault|[1 L](Contests/2024-12-soon.md)|[📄](https://reports.immunefi.com/firelight?utm_source=boost_program_page&_gl=1*xgrxih*_gcl_au*OTQ5MzA5ODgxLjE3NjQ5NjQwMjk.*_ga*MjAzNDAyNzUzNS4xNzU2OTE2ODQ4*_ga_JPHMK6RZT0*czE3NzE3NzgzMjgkbzEwOSRnMSR0MTc3MTc3ODU0MyRqNjAkbDAkaDEwMDI5NjQ5Ng..)|
+|[Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core)|DeFi Options| [ 1 H, 1 L](Contests/2025-12-Panoptic:NextCore.md)|[📄]() |
+|[Firelight](https://immunefi.com/audit-competition/audit-comp-firelight/information/)|Upgradeable ERC‑4626 compatible vault|[1 L](Contests/2025-11-Firelight.md)|[📄](https://reports.immunefi.com/firelight?utm_source=boost_program_page&_gl=1*xgrxih*_gcl_au*OTQ5MzA5ODgxLjE3NjQ5NjQwMjk.*_ga*MjAzNDAyNzUzNS4xNzU2OTE2ODQ4*_ga_JPHMK6RZT0*czE3NzE3NzgzMjgkbzEwOSRnMSR0MTc3MTc3ODU0MyRqNjAkbDAkaDEwMDI5NjQ5Ng..)|
 
 ## Security Research & Insights
 
