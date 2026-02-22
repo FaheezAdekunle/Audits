@@ -1,0 +1,32 @@
+# mibunna Auditing Portfolio
+
+This is my Audit portfolio collecting the contests I participated in and my engagements in Web3 security.
+
+## About mibunna
+
+I am a smart contract auditor focused on identifying systemic and economic vulnerabilities in Dapps and DeFi protocols, with experience across major web3 security platforms and real-world protocol reviews.
+
+I participate in contests on platforms like [code4rena](https://code4rena.com/audits) and [ImmuneFi](https://immunefi.com/audit-competition/)
+
+* Twitter/X [@mibunna](https://x.com/mibunna?s=21)
+* Discord [@mibunna](https://discordapp.com/users/1358646930493673564)
+* Telegram [@mibunna](t.me/mibunna_x)
+
+## Expertise
+
+I primarily audit solidity based, EVM protocols. Spanning across projects in the following categories:
+
+* Tokenised Vaults
+* DeFi Cover
+* Vesting Contracts
+* Launchpads
+* Proxy Patterns
+
+amongst others...
+
+## Audit Contests
+
+|Contest|Description|Findings|Report|
+|:------|:----------|:-------|:--:|
+|[Panoptic: Next Core](https://code4rena.com/audits/2025-12-panoptic-next-core)|DeFi Options| [ 1 H, 1 L](Contests/2025-12-IgniteLabs.md)|[📄]() |
+|[Firelight](https://immunefi.com/audit-competition/audit-comp-firelight/information/)|Upgradeable ERC‑4626 compatible vault|[1 L](Contests/2024-12-soon.md)|[📄](https://reports.immunefi.com/firelight?utm_source=boost_program_page&_gl=1*xgrxih*_gcl_au*OTQ5MzA5ODgxLjE3NjQ5NjQwMjk.*_ga*MjAzNDAyNzUzNS4xNzU2OTE2ODQ4*_ga_JPHMK6RZT0*czE3NzE3NzgzMjgkbzEwOSRnMSR0MTc3MTc3ODU0MyRqNjAkbDAkaDEwMDI5NjQ5Ng..)|
