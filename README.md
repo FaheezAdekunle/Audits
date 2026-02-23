@@ -33,7 +33,7 @@ amongst others...
 
 ## Security Research & Insights
 
-As a Smart Contract Auditor and Security Researcher, I also write about my experience during audits to give insights on my workflow and relate with founders & devs alike. Here's an article I published recently, have a good read.
+As a Smart Contract Auditor and Security Researcher, I also write about my experience during audits to give insights on my workflow and relate with founders & devs alike. Here are articles I published recently, have a good read.
 
 * [The Ghost in the Constructor](https://medium.com/@mibunna/spotting-vulnerabilities-in-smart-contracts-1-the-ghost-in-the-constructor-62d49d6a4737)
 * [AI Mirage and the High Cost of “Cheap” Security](https://medium.com/@mibunna/the-current-position-of-ai-in-web3-sec-ai-mirage-and-the-high-cost-of-cheap-security-5df6ffca427a)
