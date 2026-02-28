@@ -37,3 +37,6 @@ As a Smart Contract Auditor and Security Researcher, I also write about my exper
 
 * [The Ghost in the Constructor](https://medium.com/@mibunna/spotting-vulnerabilities-in-smart-contracts-1-the-ghost-in-the-constructor-62d49d6a4737)
 * [AI Mirage and the High Cost of “Cheap” Security](https://medium.com/@mibunna/the-current-position-of-ai-in-web3-sec-ai-mirage-and-the-high-cost-of-cheap-security-5df6ffca427a)
+
+## Accolades
+[Radcipher](https://radcipher.com/)  Audit-arena-week-4 | Position- 🥉[3rd](https://x.com/radcipher/status/2027331835038957747?s=20)
