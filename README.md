@@ -39,6 +39,6 @@ As a Smart Contract Auditor and Security Researcher, I also write about my exper
 * [AI Mirage and the High Cost of “Cheap” Security](https://medium.com/@mibunna/the-current-position-of-ai-in-web3-sec-ai-mirage-and-the-high-cost-of-cheap-security-5df6ffca427a)
 
 ## Accolades
-[Radcipher](https://radcipher.com/)  Audit-arena-week-4 | Position- 🥉[3rd](https://x.com/radcipher/status/2027331835038957747?s=20)
-[Radcipher](https://radcipher.com/)  Audit-arena-week-5 | Position- 🥉[3rd](https://x.com/radcipher/status/2029863036077367526?s=20)
-[Radcipher](https://radcipher.com/)  Audit-arena-week-6 | Position- 🏅[4th](https://x.com/radcipher/status/2032406317483139276?s=20)
+* [Radcipher](https://radcipher.com/)  Audit-arena-week-4 | Position- 🥉[3rd](https://x.com/radcipher/status/2027331835038957747?s=20)
+* [Radcipher](https://radcipher.com/)  Audit-arena-week-5 | Position- 🥉[3rd](https://x.com/radcipher/status/2029863036077367526?s=20)
+* [Radcipher](https://radcipher.com/)  Audit-arena-week-6 | Position- 🏅[4th](https://x.com/radcipher/status/2032406317483139276?s=20)
